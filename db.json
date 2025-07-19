@@ -1,0 +1,8 @@
+{
+  "usuarios": [
+    { "id": 1, "nombre": "Emanuel", "inicio": "a", "contraseña": "a", "tipo": "ADMIN" },
+    { "id": 2, "nombre": "Yarleyda", "inicio": "b", "contraseña": "b", "tipo": "USER" },
+    { "id": 3, "nombre": "Sebastian", "inicio": "c", "contraseña": "c", "tipo": "USER" },
+    { "id": 4,"nombre": "Jeanpierry","inicio": "d", "contraseña": "d", "tipo": "USER" }
+  ]
+}
