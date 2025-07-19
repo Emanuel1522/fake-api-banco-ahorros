@@ -1,8 +1,23 @@
 {
   "usuarios": [
     { "id": 1, "nombre": "Emanuel", "inicio": "a", "contraseña": "a", "tipo": "ADMIN" },
-    { "id": 2, "nombre": "Yarleyda", "inicio": "b", "contraseña": "b", "tipo": "USER" },
-    { "id": 3, "nombre": "Sebastian", "inicio": "c", "contraseña": "c", "tipo": "USER" },
-    { "id": 4,"nombre": "Jeanpierry","inicio": "d", "contraseña": "d", "tipo": "USER" }
+    { "id": 2, "nombre": "Yarleyda", "grupo": "10-1", "ahorro": "100", "inicio": "b", "contraseña": "b", "tipo": "USER" },
+    { "id": 3, "nombre": "Juan", "grupo": "10-1", "ahorro": "100", "inicio": "c", "contraseña": "c", "tipo": "USER" },
+    { "id": 4, "nombre": "Pedro", "grupo": "10-2", "ahorro": "100", "inicio": "d", "contraseña": "d", "tipo": "USER" },
+    { "id": 5, "nombre": "Valentino", "grupo": "10-2", "ahorro": "100", "inicio": "e", "contraseña": "e", "tipo": "USER" },
+    { "id": 6, "nombre": "Pepito", "grupo": "10-3", "ahorro": "100", "inicio": "f", "contraseña": "f", "tipo": "USER" },
+    { "id": 7, "nombre": "Mendibelso", "grupo": "10-3", "ahorro": "100", "inicio": "g", "contraseña": "g", "tipo": "USER" },
+    { "id": 8, "nombre": "Aurelio", "grupo": "10-4", "ahorro": "100", "inicio": "h", "contraseña": "h", "tipo": "USER" },
+    { "id": 9, "nombre": "Eufridas", "grupo": "10-4", "ahorro": "100", "inicio": "i", "contraseña": "i", "tipo": "USER" },
+    { "id": 10, "nombre": "Marcos", "grupo": "11-1", "ahorro": "100", "inicio": "j", "contraseña": "j", "tipo": "USER" },
+    { "id": 11, "nombre": "Sebastian", "grupo": "11-1", "ahorro": "100", "inicio": "k", "contraseña": "k", "tipo": "USER" },
+    { "id": 12,"nombre": "Jeanpierry", "grupo": "11-2", "ahorro": "100", "inicio": "l", "contraseña": "l", "tipo": "USER" },
+    { "id": 13,"nombre": "Judas", "grupo": "11-2", "ahorro": "100", "inicio": "m", "contraseña": "m", "tipo": "USER" },
+    { "id": 14,"nombre": "Crisbel", "grupo": "11-3", "ahorro": "100", "inicio": "n", "contraseña": "n", "tipo": "USER" },
+    { "id": 15,"nombre": "Marlon", "grupo": "11-3", "ahorro": "100", "inicio": "ñ", "contraseña": "ñ", "tipo": "USER" },
+    { "id": 16,"nombre": "Crystal", "grupo": "11-4", "ahorro": "100", "inicio": "o", "contraseña": "o", "tipo": "USER" },
+    { "id": 17,"nombre": "Pancho", "grupo": "11-4", "ahorro": "100", "inicio": "p", "contraseña": "p", "tipo": "USER" },
+    { "id": 18,"nombre": "Pacho", "grupo": "11-4", "ahorro": "100", "inicio": "q", "contraseña": "q", "tipo": "USER" },
+    { "id": 19,"nombre": "Euclides", "grupo": "11-4", "ahorro": "100", "inicio": "r", "contraseña": "r", "tipo": "USER" }
   ]
 }
